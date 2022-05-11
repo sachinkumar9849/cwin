@@ -1,0 +1,23 @@
+        @media (max-width: 1444px) {
+            html {
+                font-size: 16px;
+            }
+            body {
+                overflow-x: hidden;
+            }
+            ul.menu_list li {
+                padding: 0 11px;
+            }
+            nav a {
+                font-size: 14px;
+            }
+            nav.header.section-header.top-header-bg.header-sticky.d-flex.justify-content-between.sticky-bar ul.menu_list li {
+                padding: 0 11px;
+            }
+            nav.header.section-header.top-header-bg.header-sticky.sticky-bar a {
+                color: black;
+                font-size: 14px;
+                font-weight: 500;
+                transition: .5s;
+            }
+        }
